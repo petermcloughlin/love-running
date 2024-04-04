@@ -102,6 +102,14 @@ main{
 #cover-text > h2, #cover-text > h3 {
     color:#ffffff;
 }
+/* Gallery */
+#photos img {
+    width: 100%;
+    line-height: 1em;
+}
+#photos {
+    line-height: 0;
+}
 /* Footer */
 #social-networks{
     text-align: center;
